@@ -1,2 +1,15 @@
 # AI-Climate-Driven-Disease-Outbreak-Prediction
-AI Climate-Driven Disease Outbreak Prediction uses climate, air pollution, and environmental data to forecast disease cases and deaths. By analyzing factors like PM2.5, temperature, precipitation, and LAI, the AI model helps predict outbreaks and supports proactive public health planning.
+Analyze Climate–Disease Link
+Study how climate variables (temperature, rainfall, vegetation index, seasonal patterns) influence disease outbreaks.
+
+Develop Predictive Models
+Build models to forecast the number of cases, classify disease types, and identify high-risk regions.
+
+Integrate Climate & Health Data
+Combine environmental and epidemiological data to uncover meaningful patterns.
+
+Support Public Health Planning
+Provide early warning alerts, guide resource allocation, and strengthen disease prevention strategies.
+
+Mitigate Climate-Sensitive Diseases
+Reduce the overall impact of climate-driven disease outbreaks on communities.
